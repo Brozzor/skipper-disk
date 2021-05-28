@@ -1,6 +1,6 @@
 {
-  "name": "skipper-disk",
-  "version": "0.5.12",
+  "name": "skipper-disk-change-filename",
+  "version": "0.5.13",
   "description": "Receive streaming file uploads on your local filesystem.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/skipper-disk.git"
+    "url": "git://github.com/brozzor/skipper-disk.git"
   },
   "keywords": [
     "skipper",
@@ -23,10 +23,10 @@
     "sails",
     "express"
   ],
-  "author": "Mike McNeil",
+  "author": "Buisson Romain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/balderdashy/skipper-disk/issues"
+    "url": "https://github.com/brozzor/skipper-disk/issues"
   },
   "homepage": "https://sailsjs.com/support",
   "dependencies": {
